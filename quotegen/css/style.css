@@ -1,0 +1,35 @@
+body {
+  background-color:black;
+  font-family: Times New Roman;
+}
+h1{
+  color: white;
+}
+p {
+  color: white;
+  margin-bottom: 0px;
+}
+img{
+  padding: 25px;
+  width: 400px;
+}
+
+.quotes{
+  background-color: black;
+  width:33%;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-style: solid;
+  color: white;
+}
+
+.btn{
+  font-family: Arial;
+}
+
+.quote{
+  font-size: 25px;
+}
